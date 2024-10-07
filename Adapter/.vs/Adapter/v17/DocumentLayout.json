@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\\u0420\u041F\u041C\\Adapter\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8DD3F56B-C392-4EE9-83B1-04E3ECBC0CA6}|Adapter\\Adapter.csproj|g:\\\u0440\u043F\u043C\\adapter\\adapter\\adapt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DD3F56B-C392-4EE9-83B1-04E3ECBC0CA6}|Adapter\\Adapter.csproj|solutionrelative:adapter\\adapt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DD3F56B-C392-4EE9-83B1-04E3ECBC0CA6}|Adapter\\Adapter.csproj|g:\\\u0440\u043F\u043C\\adapter\\adapter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DD3F56B-C392-4EE9-83B1-04E3ECBC0CA6}|Adapter\\Adapter.csproj|solutionrelative:adapter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DD3F56B-C392-4EE9-83B1-04E3ECBC0CA6}|Adapter\\Adapter.csproj|g:\\\u0440\u043F\u043C\\adapter\\adapter\\tester.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DD3F56B-C392-4EE9-83B1-04E3ECBC0CA6}|Adapter\\Adapter.csproj|solutionrelative:adapter\\tester.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Tester.cs",
+              "DocumentMoniker": "G:\\\u0420\u041F\u041C\\Adapter\\Adapter\\Tester.cs",
+              "RelativeDocumentMoniker": "Adapter\\Tester.cs",
+              "ToolTip": "G:\\\u0420\u041F\u041C\\Adapter\\Adapter\\Tester.cs",
+              "RelativeToolTip": "Adapter\\Tester.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T06:47:49.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Adapt.cs",
+              "DocumentMoniker": "G:\\\u0420\u041F\u041C\\Adapter\\Adapter\\Adapt.cs",
+              "RelativeDocumentMoniker": "Adapter\\Adapt.cs",
+              "ToolTip": "G:\\\u0420\u041F\u041C\\Adapter\\Adapter\\Adapt.cs",
+              "RelativeToolTip": "Adapter\\Adapt.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T06:46:46.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\\u0420\u041F\u041C\\Adapter\\Adapter\\Program.cs",
+              "RelativeDocumentMoniker": "Adapter\\Program.cs",
+              "ToolTip": "G:\\\u0420\u041F\u041C\\Adapter\\Adapter\\Program.cs",
+              "RelativeToolTip": "Adapter\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T06:45:08.499Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
