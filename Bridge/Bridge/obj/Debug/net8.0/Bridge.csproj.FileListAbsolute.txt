@@ -1,0 +1,14 @@
+G:\РПМ\Bridge\Bridge\bin\Debug\net8.0\Bridge.exe
+G:\РПМ\Bridge\Bridge\bin\Debug\net8.0\Bridge.deps.json
+G:\РПМ\Bridge\Bridge\bin\Debug\net8.0\Bridge.runtimeconfig.json
+G:\РПМ\Bridge\Bridge\bin\Debug\net8.0\Bridge.dll
+G:\РПМ\Bridge\Bridge\bin\Debug\net8.0\Bridge.pdb
+G:\РПМ\Bridge\Bridge\obj\Debug\net8.0\Bridge.GeneratedMSBuildEditorConfig.editorconfig
+G:\РПМ\Bridge\Bridge\obj\Debug\net8.0\Bridge.AssemblyInfoInputs.cache
+G:\РПМ\Bridge\Bridge\obj\Debug\net8.0\Bridge.AssemblyInfo.cs
+G:\РПМ\Bridge\Bridge\obj\Debug\net8.0\Bridge.csproj.CoreCompileInputs.cache
+G:\РПМ\Bridge\Bridge\obj\Debug\net8.0\Bridge.dll
+G:\РПМ\Bridge\Bridge\obj\Debug\net8.0\refint\Bridge.dll
+G:\РПМ\Bridge\Bridge\obj\Debug\net8.0\Bridge.pdb
+G:\РПМ\Bridge\Bridge\obj\Debug\net8.0\Bridge.genruntimeconfig.cache
+G:\РПМ\Bridge\Bridge\obj\Debug\net8.0\ref\Bridge.dll
