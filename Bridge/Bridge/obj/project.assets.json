@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\РПМ\\Bridge\\Bridge\\Bridge.csproj",
+      "projectUniqueName": "C:\\Users\\LukushinAV\\-2\\Bridge\\Bridge\\Bridge.csproj",
       "projectName": "Bridge",
-      "projectPath": "G:\\РПМ\\Bridge\\Bridge\\Bridge.csproj",
+      "projectPath": "C:\\Users\\LukushinAV\\-2\\Bridge\\Bridge\\Bridge.csproj",
       "packagesPath": "C:\\Users\\LukushinAV\\.nuget\\packages\\",
-      "outputPath": "G:\\РПМ\\Bridge\\Bridge\\obj\\",
+      "outputPath": "C:\\Users\\LukushinAV\\-2\\Bridge\\Bridge\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

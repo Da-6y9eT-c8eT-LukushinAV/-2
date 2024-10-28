@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\\u0420\u041F\u041C\\Composite Pattern\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8B2D1135-4C6A-4987-9B97-3960C7A420CC}|Composite Pattern\\Composite Pattern.csproj|g:\\\u0440\u043F\u043C\\composite pattern\\composite pattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B2D1135-4C6A-4987-9B97-3960C7A420CC}|Composite Pattern\\Composite Pattern.csproj|solutionrelative:composite pattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B2D1135-4C6A-4987-9B97-3960C7A420CC}|Composite Pattern\\Composite Pattern.csproj|g:\\\u0440\u043F\u043C\\composite pattern\\composite pattern\\document.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B2D1135-4C6A-4987-9B97-3960C7A420CC}|Composite Pattern\\Composite Pattern.csproj|solutionrelative:composite pattern\\document.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B2D1135-4C6A-4987-9B97-3960C7A420CC}|Composite Pattern\\Composite Pattern.csproj|g:\\\u0440\u043F\u043C\\composite pattern\\composite pattern\\section.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B2D1135-4C6A-4987-9B97-3960C7A420CC}|Composite Pattern\\Composite Pattern.csproj|solutionrelative:composite pattern\\section.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B2D1135-4C6A-4987-9B97-3960C7A420CC}|Composite Pattern\\Composite Pattern.csproj|g:\\\u0440\u043F\u043C\\composite pattern\\composite pattern\\paragraph.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B2D1135-4C6A-4987-9B97-3960C7A420CC}|Composite Pattern\\Composite Pattern.csproj|solutionrelative:composite pattern\\paragraph.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B2D1135-4C6A-4987-9B97-3960C7A420CC}|Composite Pattern\\Composite Pattern.csproj|g:\\\u0440\u043F\u043C\\composite pattern\\composite pattern\\idocumentcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B2D1135-4C6A-4987-9B97-3960C7A420CC}|Composite Pattern\\Composite Pattern.csproj|solutionrelative:composite pattern\\idocumentcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Document.cs",
+              "DocumentMoniker": "G:\\\u0420\u041F\u041C\\Composite Pattern\\Composite Pattern\\Document.cs",
+              "RelativeDocumentMoniker": "Composite Pattern\\Document.cs",
+              "ToolTip": "G:\\\u0420\u041F\u041C\\Composite Pattern\\Composite Pattern\\Document.cs",
+              "RelativeToolTip": "Composite Pattern\\Document.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T06:08:36.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Section.cs",
+              "DocumentMoniker": "G:\\\u0420\u041F\u041C\\Composite Pattern\\Composite Pattern\\Section.cs",
+              "RelativeDocumentMoniker": "Composite Pattern\\Section.cs",
+              "ToolTip": "G:\\\u0420\u041F\u041C\\Composite Pattern\\Composite Pattern\\Section.cs",
+              "RelativeToolTip": "Composite Pattern\\Section.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAIwD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T06:08:07.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Paragraph.cs",
+              "DocumentMoniker": "G:\\\u0420\u041F\u041C\\Composite Pattern\\Composite Pattern\\Paragraph.cs",
+              "RelativeDocumentMoniker": "Composite Pattern\\Paragraph.cs",
+              "ToolTip": "G:\\\u0420\u041F\u041C\\Composite Pattern\\Composite Pattern\\Paragraph.cs",
+              "RelativeToolTip": "Composite Pattern\\Paragraph.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA5wCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T06:07:45.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IDocumentComponent.cs",
+              "DocumentMoniker": "G:\\\u0420\u041F\u041C\\Composite Pattern\\Composite Pattern\\IDocumentComponent.cs",
+              "RelativeDocumentMoniker": "Composite Pattern\\IDocumentComponent.cs",
+              "ToolTip": "G:\\\u0420\u041F\u041C\\Composite Pattern\\Composite Pattern\\IDocumentComponent.cs",
+              "RelativeToolTip": "Composite Pattern\\IDocumentComponent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T06:07:26.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\\u0420\u041F\u041C\\Composite Pattern\\Composite Pattern\\Program.cs",
+              "RelativeDocumentMoniker": "Composite Pattern\\Program.cs",
+              "ToolTip": "G:\\\u0420\u041F\u041C\\Composite Pattern\\Composite Pattern\\Program.cs*",
+              "RelativeToolTip": "Composite Pattern\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T06:06:43.212Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
