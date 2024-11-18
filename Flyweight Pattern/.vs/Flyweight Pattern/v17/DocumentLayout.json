@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\\u0420\u041F\u041C\\Flyweight Pattern\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D65F739C-ED7E-4DF3-BBAB-B087F376859E}|Flyweight Pattern\\Flyweight Pattern.csproj|g:\\\u0440\u043F\u043C\\flyweight pattern\\flyweight pattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D65F739C-ED7E-4DF3-BBAB-B087F376859E}|Flyweight Pattern\\Flyweight Pattern.csproj|solutionrelative:flyweight pattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\\u0420\u041F\u041C\\Flyweight Pattern\\Flyweight Pattern\\Program.cs",
+              "RelativeDocumentMoniker": "Flyweight Pattern\\Program.cs",
+              "ToolTip": "G:\\\u0420\u041F\u041C\\Flyweight Pattern\\Flyweight Pattern\\Program.cs",
+              "RelativeToolTip": "Flyweight Pattern\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T06:31:34.435Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
