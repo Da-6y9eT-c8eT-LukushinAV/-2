@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\\u0420\u041F\u041C\\Proxy Pattern\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A56697A4-3F9B-4CA4-9B79-6D3101286AF9}|Proxy Pattern\\Proxy Pattern.csproj|g:\\\u0440\u043F\u043C\\proxy pattern\\proxy pattern\\proxy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A56697A4-3F9B-4CA4-9B79-6D3101286AF9}|Proxy Pattern\\Proxy Pattern.csproj|solutionrelative:proxy pattern\\proxy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A56697A4-3F9B-4CA4-9B79-6D3101286AF9}|Proxy Pattern\\Proxy Pattern.csproj|g:\\\u0440\u043F\u043C\\proxy pattern\\proxy pattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A56697A4-3F9B-4CA4-9B79-6D3101286AF9}|Proxy Pattern\\Proxy Pattern.csproj|solutionrelative:proxy pattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A56697A4-3F9B-4CA4-9B79-6D3101286AF9}|Proxy Pattern\\Proxy Pattern.csproj|g:\\\u0440\u043F\u043C\\proxy pattern\\proxy pattern\\realsubject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A56697A4-3F9B-4CA4-9B79-6D3101286AF9}|Proxy Pattern\\Proxy Pattern.csproj|solutionrelative:proxy pattern\\realsubject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A56697A4-3F9B-4CA4-9B79-6D3101286AF9}|Proxy Pattern\\Proxy Pattern.csproj|g:\\\u0440\u043F\u043C\\proxy pattern\\proxy pattern\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A56697A4-3F9B-4CA4-9B79-6D3101286AF9}|Proxy Pattern\\Proxy Pattern.csproj|solutionrelative:proxy pattern\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Proxy.cs",
+              "DocumentMoniker": "G:\\\u0420\u041F\u041C\\Proxy Pattern\\Proxy Pattern\\Proxy.cs",
+              "RelativeDocumentMoniker": "Proxy Pattern\\Proxy.cs",
+              "ToolTip": "G:\\\u0420\u041F\u041C\\Proxy Pattern\\Proxy Pattern\\Proxy.cs",
+              "RelativeToolTip": "Proxy Pattern\\Proxy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T06:45:49.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RealSubject.cs",
+              "DocumentMoniker": "G:\\\u0420\u041F\u041C\\Proxy Pattern\\Proxy Pattern\\RealSubject.cs",
+              "RelativeDocumentMoniker": "Proxy Pattern\\RealSubject.cs",
+              "ToolTip": "G:\\\u0420\u041F\u041C\\Proxy Pattern\\Proxy Pattern\\RealSubject.cs",
+              "RelativeToolTip": "Proxy Pattern\\RealSubject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T06:44:58.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Subject.cs",
+              "DocumentMoniker": "G:\\\u0420\u041F\u041C\\Proxy Pattern\\Proxy Pattern\\Subject.cs",
+              "RelativeDocumentMoniker": "Proxy Pattern\\Subject.cs",
+              "ToolTip": "G:\\\u0420\u041F\u041C\\Proxy Pattern\\Proxy Pattern\\Subject.cs",
+              "RelativeToolTip": "Proxy Pattern\\Subject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T06:44:37.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\\u0420\u041F\u041C\\Proxy Pattern\\Proxy Pattern\\Program.cs",
+              "RelativeDocumentMoniker": "Proxy Pattern\\Program.cs",
+              "ToolTip": "G:\\\u0420\u041F\u041C\\Proxy Pattern\\Proxy Pattern\\Program.cs",
+              "RelativeToolTip": "Proxy Pattern\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T06:43:28.351Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
