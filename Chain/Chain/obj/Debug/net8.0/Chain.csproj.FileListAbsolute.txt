@@ -1,0 +1,14 @@
+G:\РПМ\Chain\Chain\bin\Debug\net8.0\Chain.exe
+G:\РПМ\Chain\Chain\bin\Debug\net8.0\Chain.deps.json
+G:\РПМ\Chain\Chain\bin\Debug\net8.0\Chain.runtimeconfig.json
+G:\РПМ\Chain\Chain\bin\Debug\net8.0\Chain.dll
+G:\РПМ\Chain\Chain\bin\Debug\net8.0\Chain.pdb
+G:\РПМ\Chain\Chain\obj\Debug\net8.0\Chain.GeneratedMSBuildEditorConfig.editorconfig
+G:\РПМ\Chain\Chain\obj\Debug\net8.0\Chain.AssemblyInfoInputs.cache
+G:\РПМ\Chain\Chain\obj\Debug\net8.0\Chain.AssemblyInfo.cs
+G:\РПМ\Chain\Chain\obj\Debug\net8.0\Chain.csproj.CoreCompileInputs.cache
+G:\РПМ\Chain\Chain\obj\Debug\net8.0\Chain.dll
+G:\РПМ\Chain\Chain\obj\Debug\net8.0\refint\Chain.dll
+G:\РПМ\Chain\Chain\obj\Debug\net8.0\Chain.pdb
+G:\РПМ\Chain\Chain\obj\Debug\net8.0\Chain.genruntimeconfig.cache
+G:\РПМ\Chain\Chain\obj\Debug\net8.0\ref\Chain.dll

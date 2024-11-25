@@ -1,0 +1,14 @@
+G:\РПМ\Command\Command\obj\Debug\net8.0\Command.GeneratedMSBuildEditorConfig.editorconfig
+G:\РПМ\Command\Command\obj\Debug\net8.0\Command.AssemblyInfoInputs.cache
+G:\РПМ\Command\Command\obj\Debug\net8.0\Command.AssemblyInfo.cs
+G:\РПМ\Command\Command\obj\Debug\net8.0\Command.csproj.CoreCompileInputs.cache
+G:\РПМ\Command\Command\bin\Debug\net8.0\Command.exe
+G:\РПМ\Command\Command\bin\Debug\net8.0\Command.deps.json
+G:\РПМ\Command\Command\bin\Debug\net8.0\Command.runtimeconfig.json
+G:\РПМ\Command\Command\bin\Debug\net8.0\Command.dll
+G:\РПМ\Command\Command\bin\Debug\net8.0\Command.pdb
+G:\РПМ\Command\Command\obj\Debug\net8.0\Command.dll
+G:\РПМ\Command\Command\obj\Debug\net8.0\refint\Command.dll
+G:\РПМ\Command\Command\obj\Debug\net8.0\Command.pdb
+G:\РПМ\Command\Command\obj\Debug\net8.0\Command.genruntimeconfig.cache
+G:\РПМ\Command\Command\obj\Debug\net8.0\ref\Command.dll

@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\\u0420\u041F\u041C\\Chain\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2BEEA8E4-929E-4864-AD84-503F909F88EB}|Chain\\Chain.csproj|g:\\\u0440\u043F\u043C\\chain\\chain\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BEEA8E4-929E-4864-AD84-503F909F88EB}|Chain\\Chain.csproj|solutionrelative:chain\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BEEA8E4-929E-4864-AD84-503F909F88EB}|Chain\\Chain.csproj|g:\\\u0440\u043F\u043C\\chain\\chain\\request.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BEEA8E4-929E-4864-AD84-503F909F88EB}|Chain\\Chain.csproj|solutionrelative:chain\\request.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BEEA8E4-929E-4864-AD84-503F909F88EB}|Chain\\Chain.csproj|g:\\\u0440\u043F\u043C\\chain\\chain\\handler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BEEA8E4-929E-4864-AD84-503F909F88EB}|Chain\\Chain.csproj|solutionrelative:chain\\handler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BEEA8E4-929E-4864-AD84-503F909F88EB}|Chain\\Chain.csproj|g:\\\u0440\u043F\u043C\\chain\\chain\\concrete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BEEA8E4-929E-4864-AD84-503F909F88EB}|Chain\\Chain.csproj|solutionrelative:chain\\concrete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Request.cs",
+              "DocumentMoniker": "G:\\\u0420\u041F\u041C\\Chain\\Chain\\Request.cs",
+              "RelativeDocumentMoniker": "Chain\\Request.cs",
+              "ToolTip": "G:\\\u0420\u041F\u041C\\Chain\\Chain\\Request.cs",
+              "RelativeToolTip": "Chain\\Request.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T06:25:35.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Concrete.cs",
+              "DocumentMoniker": "G:\\\u0420\u041F\u041C\\Chain\\Chain\\Concrete.cs",
+              "RelativeDocumentMoniker": "Chain\\Concrete.cs",
+              "ToolTip": "G:\\\u0420\u041F\u041C\\Chain\\Chain\\Concrete.cs",
+              "RelativeToolTip": "Chain\\Concrete.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAswCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T06:22:49.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Handler.cs",
+              "DocumentMoniker": "G:\\\u0420\u041F\u041C\\Chain\\Chain\\Handler.cs",
+              "RelativeDocumentMoniker": "Chain\\Handler.cs",
+              "ToolTip": "G:\\\u0420\u041F\u041C\\Chain\\Chain\\Handler.cs",
+              "RelativeToolTip": "Chain\\Handler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T06:21:37.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\\u0420\u041F\u041C\\Chain\\Chain\\Program.cs",
+              "RelativeDocumentMoniker": "Chain\\Program.cs",
+              "ToolTip": "G:\\\u0420\u041F\u041C\\Chain\\Chain\\Program.cs",
+              "RelativeToolTip": "Chain\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T06:21:16.683Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
