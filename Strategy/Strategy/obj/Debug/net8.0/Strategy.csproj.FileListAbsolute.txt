@@ -1,0 +1,14 @@
+G:\РПМ\Strategy\Strategy\bin\Debug\net8.0\Strategy.exe
+G:\РПМ\Strategy\Strategy\bin\Debug\net8.0\Strategy.deps.json
+G:\РПМ\Strategy\Strategy\bin\Debug\net8.0\Strategy.runtimeconfig.json
+G:\РПМ\Strategy\Strategy\bin\Debug\net8.0\Strategy.dll
+G:\РПМ\Strategy\Strategy\bin\Debug\net8.0\Strategy.pdb
+G:\РПМ\Strategy\Strategy\obj\Debug\net8.0\Strategy.GeneratedMSBuildEditorConfig.editorconfig
+G:\РПМ\Strategy\Strategy\obj\Debug\net8.0\Strategy.AssemblyInfoInputs.cache
+G:\РПМ\Strategy\Strategy\obj\Debug\net8.0\Strategy.AssemblyInfo.cs
+G:\РПМ\Strategy\Strategy\obj\Debug\net8.0\Strategy.csproj.CoreCompileInputs.cache
+G:\РПМ\Strategy\Strategy\obj\Debug\net8.0\Strategy.dll
+G:\РПМ\Strategy\Strategy\obj\Debug\net8.0\refint\Strategy.dll
+G:\РПМ\Strategy\Strategy\obj\Debug\net8.0\Strategy.pdb
+G:\РПМ\Strategy\Strategy\obj\Debug\net8.0\Strategy.genruntimeconfig.cache
+G:\РПМ\Strategy\Strategy\obj\Debug\net8.0\ref\Strategy.dll
