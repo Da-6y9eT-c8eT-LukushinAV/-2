@@ -1,0 +1,48 @@
+﻿<Window x:Class="CarServiceApp.RequestWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Добавление/Редактирование заявки" Height="404" Width="600">
+    <Grid>
+        <StackPanel>
+            <TextBlock Text="Номер заявки" />
+            <TextBox x:Name="NumberTextBox" IsReadOnly="True" Margin="5"/>
+
+            <TextBlock Text="Дата добавления" />
+            <TextBox x:Name="AddedDateTextBox" IsReadOnly="True" Margin="5"/>
+
+            <TextBlock Text="Вид авто" />
+            <ComboBox x:Name="CarTypeComboBox" Margin="5">
+                <ComboBoxItem Content="Микроавтомобили" />
+                <ComboBoxItem Content="Компактный класс" />
+                <ComboBoxItem Content="Гольф-класс" />
+                <ComboBoxItem Content="Семейный класс" />
+                <ComboBoxItem Content="Бизнес-класс" />
+                <ComboBoxItem Content="Представительский класс" />
+                <ComboBoxItem Content="Внедорожники" />
+                <ComboBoxItem Content="Минивэны и УПВ" />
+                <ComboBoxItem Content="Спорткупе" />
+            </ComboBox>
+
+            <TextBlock Text="Модель авто" />
+            <TextBox x:Name="CarModelTextBox" Margin="5"/>
+
+            <TextBlock Text="Описание проблемы" />
+            <TextBox x:Name="DescriptionTextBox" Margin="5"/>
+
+            <TextBlock Text="ФИО клиента" />
+            <TextBox x:Name="ClientLFPTextBox" Margin="5"/>
+
+            <TextBlock Text="Номер телефона" />
+            <TextBox x:Name="PhoneNumberTextBox" Margin="5"/>
+
+            <TextBlock Text="Статус заявки" />
+            <ComboBox x:Name="StatusComboBox" Margin="5">
+                <ComboBoxItem Content="Новая" />
+                <ComboBoxItem Content="В процессе" />
+                <ComboBoxItem Content="Завершена" />
+            </ComboBox>
+
+            <Button Content="Сохранить" Click="SaveButton_Click" Margin="5"/>
+        </StackPanel>
+    </Grid>
+</Window>
