@@ -1,0 +1,56 @@
+﻿<Window x:Class="CarServiceApp.RequestWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Заявка" Height="500" Width="500">
+    <Grid>
+        <StackPanel Margin="20">
+            <TextBlock Text="Номер заявки" />
+            <TextBox Name="NumberTextBox" IsReadOnly="True" />
+
+            <TextBlock Text="Дата добавления" />
+            <DatePicker Name="AddedDatePicker" />
+
+            <TextBlock Text="Тип техники" />
+            <ComboBox Name="DeviceTypeComboBox"/>
+            <!--<ComboBoxItem>Холодильник</ComboBoxItem>
+            <ComboBoxItem>Стиральная машина</ComboBoxItem>
+            <ComboBoxItem>Телевизор</ComboBoxItem>
+            <ComboBoxItem>Микроволновая печь</ComboBoxItem>
+            <ComboBoxItem>Посудомоечная машина</ComboBoxItem>-->
+
+
+            <TextBlock Text="Модель техники" />
+            <TextBox Name="DeviceModelTextBox" />
+
+            <TextBlock Text="Описание проблемы" />
+            <TextBox Name="ProblemDescriptionTextBox" />
+
+            <TextBlock Text="ФИО клиента" />
+            <TextBox Name="ClientLFPTextBox" />
+
+            <TextBlock Text="Номер телефона" />
+            <TextBox Name="PhoneNumberTextBox" />
+
+            <TextBlock Text="Статус заявки" />
+            <ComboBox Name="StatusComboBox"/>
+            <!--<ComboBoxItem>Новая</ComboBoxItem>
+            <ComboBoxItem>В процессе</ComboBoxItem>
+            <ComboBoxItem>Завершена</ComboBoxItem>-->
+
+
+            <TextBlock Text="Ответственный мастер" />
+            <ComboBox Name="MechanicComboBox">
+                <!-- Список механиков будет подгружаться динамически -->
+            </ComboBox>
+
+            <TextBlock Text="Этап выполнения" />
+            <ComboBox Name="StageComboBox"/>
+            <!--<ComboBoxItem>Ожидание запчастей</ComboBoxItem>
+            <ComboBoxItem>В процессе ремонта</ComboBoxItem>
+            <ComboBoxItem>Готово к выдаче</ComboBoxItem>-->
+
+
+            <Button Content="Сохранить" Click="SaveButton_Click" />
+        </StackPanel>
+    </Grid>
+</Window>
