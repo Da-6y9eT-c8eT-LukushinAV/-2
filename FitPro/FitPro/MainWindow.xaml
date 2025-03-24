@@ -1,0 +1,39 @@
+﻿<Window x:Class="FitPro.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Учет инвентаря" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <!-- Поля для поиска и фильтрации -->
+        <StackPanel Orientation="Horizontal" Margin="10">
+            <TextBox x:Name="SearchTextBox" Width="200" TextChanged="SearchTextBox_TextChanged" Margin="5"/>
+            <ComboBox x:Name="FilterComboBox" Width="150" SelectionChanged="FilterComboBox_SelectionChanged" Margin="5"/>
+        </StackPanel>
+
+        <!-- Таблица инвентаря -->
+        <DataGrid x:Name="InventoryDataGrid" Grid.Row="1" AutoGenerateColumns="False" Margin="10">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Артикул" Binding="{Binding Article}"/>
+                <DataGridTextColumn Header="Название" Binding="{Binding Name}"/>
+                <DataGridTextColumn Header="Тип" Binding="{Binding Type}"/>
+                <DataGridTextColumn Header="Описание" Binding="{Binding Description}"/>
+                <DataGridTextColumn Header="Дата выдачи" Binding="{Binding IssueDate, StringFormat=d}"/>
+                <DataGridTextColumn Header="Дата возврата" Binding="{Binding ReturnDate, StringFormat=d}"/>
+                <DataGridTextColumn Header="Статус" Binding="{Binding Status}"/>
+                <DataGridTextColumn Header="Пользователь" Binding="{Binding User}"/>
+            </DataGrid.Columns>
+        </DataGrid>
+
+        <!-- Кнопки управления -->
+        <StackPanel Grid.Row="2" Orientation="Horizontal" HorizontalAlignment="Right" Margin="10">
+            <Button Content="Добавить" Click="AddInventory_Click" Margin="5"/>
+            <Button Content="Редактировать" Click="EditInventory_Click" Margin="5"/>
+            <Button Content="Удалить" Click="DeleteInventory_Click" Margin="5"/>
+        </StackPanel>
+    </Grid>
+</Window>

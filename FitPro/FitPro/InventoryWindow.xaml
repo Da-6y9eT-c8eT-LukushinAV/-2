@@ -1,0 +1,26 @@
+﻿<Window x:Class="FitPro.InventoryWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Инвентарь" Height="400" Width="300">
+    <Grid>
+        <StackPanel Margin="10">
+            <TextBlock Text="Артикул:"/>
+            <TextBox x:Name="ArticleTextBox"/>
+            <TextBlock Text="Название:"/>
+            <TextBox x:Name="NameTextBox"/>
+            <TextBlock Text="Тип:"/>
+            <ComboBox x:Name="TypeComboBox" ItemsSource="{Binding Types}"/>
+            <TextBlock Text="Описание:"/>
+            <TextBox x:Name="DescriptionTextBox" AcceptsReturn="True" Height="50"/>
+            <TextBlock Text="Дата выдачи:"/>
+            <DatePicker x:Name="IssueDatePicker"/>
+            <TextBlock Text="Дата возврата:"/>
+            <DatePicker x:Name="ReturnDatePicker"/>
+            <TextBlock Text="Статус:"/>
+            <ComboBox x:Name="StatusComboBox" ItemsSource="{Binding Statuses}"/>
+            <TextBlock Text="Пользователь:"/>
+            <ComboBox x:Name="UserComboBox" ItemsSource="{Binding Users}"/>
+            <Button Content="Сохранить" Click="Save_Click" Margin="5"/>
+        </StackPanel>
+    </Grid>
+</Window>
